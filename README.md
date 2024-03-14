@@ -2,6 +2,7 @@
 # SpellChecker
 
 SpellChecker is a simple Python command-line application designed to help users check the spelling of words and provide suggestions for misspelled words.
+**The mydictionary.txt file has a limited number of words. Add more words according to your preference!!**
 
 ## Features
 
@@ -17,8 +18,9 @@ SpellChecker is a simple Python command-line application designed to help users 
 ## Usage
 
 1. Run the `main.py` file using Python.
-2. Follow the on-screen instructions to input words for spell checking.
-3. Enter 'quit' to exit the program.
+2. Follow the on-screen instructions to input words for spell checking. 
+3. The mydictionary.txt file has a limited number of words. Add more words according to your preference!!
+4. Enter 'quit' to exit the program.
 
 ## Contributing
 
